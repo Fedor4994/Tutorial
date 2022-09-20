@@ -1,0 +1,23 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fedor4994/Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fedor4994/Tutorial/issues"
+  },
+  "homepage": "https://github.com/Fedor4994/Tutorial#readme",
+  "dependencies": {
+    "validator": "^1.0.0"
+  }
+}
